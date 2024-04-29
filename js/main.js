@@ -208,6 +208,10 @@ function antt(a) {
 }
 
 
+function hg(){
+    document.querySelector("#musi").play();
+}
+
 
 (function() {
     var stp = [["Phase 1", ["Pre-Launch Preparation", "Concept Development","Team Formation", "Contract Creation", "Audit", "Building Community", "CMC-CG Fast Track", "Pinksale Fairlaunch", "Marketing Campaigns by Influencers Calls & Youtubers"]], ["Phase 2", ["Token Launch", "Collaborations & Partnerships","CMC-CG Listed","CEX Listing Announcement","More Marketing Campaigns by Influencers Calls & Youtubers.","Dexview, Dextools, NTM, CMC-CG Trending at Launch.","CA Renouncing at Launch"]], ["Phase 3", ["10,000+ Holders","NFT Marketplace","CEX Listing","Release Roadmap 2.0"]]];
