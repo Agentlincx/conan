@@ -25,7 +25,7 @@ function nav() {
     }
     
     var q = document.createElement("a");
-    q.href = "https://t.me/Sorawifhatbsc";
+    q.href = "https://t.me/Conantokenbsc";
     q.classList.add("jt");
     q.innerText = "join telegram";
     a.appendChild(q);
