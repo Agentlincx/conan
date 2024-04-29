@@ -237,7 +237,7 @@ function hg(){
 
         var d = document.createElement("div");
         var da = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-        da.setAttribute("height", "450");
+        da.setAttribute("height", "500");
         da.setAttribute("width", "50");
         var db = document.createElementNS("http://www.w3.org/2000/svg", "path");
         db.classList.add("ln");
