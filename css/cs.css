@@ -586,8 +586,7 @@ position: relative;
     visibility: hidden;
 }
 
-
-canvas {
-margin-top: 2.5em
-
+#myChart {
+margin-top: 2.5em;
+position: relative;
 }
