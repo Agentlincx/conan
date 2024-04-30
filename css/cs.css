@@ -585,3 +585,8 @@ position: relative;
 #musi {
     visibility: hidden;
 }
+
+
+canvas {
+margin-top: 1.5em
+}
