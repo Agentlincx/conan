@@ -231,7 +231,7 @@ div, a {
 #p1 {
     height: 100vh;
     position: relative;
-padding: 2rem;
+padding: 2em 4em;
 }
 
 #p1>div{
