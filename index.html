@@ -187,6 +187,35 @@
             charset="utf-8"
         ></script>
 
+<script>
+const xValues = ["Burn", "Presale", "Liquidity"];
+const yValues = [70.31, 20, 9.69];
+const barColors = [
+  "#b91d47",
+  "#00aba9",
+  "#2b5797",
+  "#e8c3b9",
+  "#1e7145"
+];
+
+new Chart("myChart", {
+  type: "pie",
+  data: {
+    labels: xValues,
+    datasets: [{
+      backgroundColor: barColors,
+      data: yValues
+    }]
+  },
+  options: {
+    title: {
+      display: true,
+      text: "Total conan supply"
+    }
+  }
+});
+</script>
+
         <script type="module">
             /*
             import { earth } from "./js/anim.js";
