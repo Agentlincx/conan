@@ -213,6 +213,7 @@ function hg(){
 }
 
 
+
 (function() {
     var stp = [["Phase 1", ["Pre-Launch Preparation", "Concept Development","Team Formation", "Contract Creation", "Audit", "Building Community", "CMC-CG Fast Track", "Pinksale Fairlaunch", "Marketing Campaigns by Influencers Calls & Youtubers"]], ["Phase 2", ["Token Launch", "Collaborations & Partnerships","CMC-CG Listed","CEX Listing Announcement","More Marketing Campaigns by Influencers Calls & Youtubers.","Dexview, Dextools, NTM, CMC-CG Trending at Launch.","CA Renouncing at Launch"]], ["Phase 3", ["10,000+ Holders","NFT Marketplace","CEX Listing","Release Roadmap 2.0"]]];
 
@@ -242,7 +243,7 @@ da.id = "lhh";
         var db = document.createElementNS("http://www.w3.org/2000/svg", "path");
         db.classList.add("ln");
         db.setAttribute("stroke", "black");
-        db.setAttribute("d", "M25 0 L25 280");
+        db.setAttribute("d", "M25 0 L25 200");
         da.appendChild(db);
         d.appendChild(da);
         a.appendChild(d);
